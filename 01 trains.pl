@@ -1,6 +1,5 @@
-# --- May-10-2008 ---
-
 #!/usr/bin/perl
+# --- May-10-2008 ---
 #
 # get full train timetable between Gyor-Budapest
 use strict; use warnings; use utf8;
