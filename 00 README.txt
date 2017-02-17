@@ -1,10 +1,9 @@
-trains - for personal use
+trains
 
-A quick solution for train schedule retrieval. 
-We used to take the train frequently between Kelenfold and Gyor, 
-and I wanted to stop clicking and browsing all the time.
+We used to take the train frequently between two stations called Kelenfold and Gyor. 
+After some time I felt that I am spending too much time on clicking and browsing.
 
-The Perl script grabbed data from the 2008 version of the website 
-of MAV (Hungarian railroad company) and processed it.
+The Perl script grabbed data from the website of the railroad company and processed it
+to a format that we could use efficiently for planning our trips:
 
-Sample output file: output-sample.txt
+  output-sample.txt
