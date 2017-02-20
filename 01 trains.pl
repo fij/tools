@@ -55,7 +55,7 @@ for my $trainId (map{ /ELVIRA.VT\((\d+)\)/; $1; } # select train ID
                    )[4,7,10] # keep 2nd item (of 3) from 2nd,3rd,4th columns
                  ] } # return unnamed list
             grep{ /ELVIRA\.AF\(1358|Budapest/ } # use stations: Gyor (358) or Bp. (several stations)
-            ( $table =~ /\<tr.*?\>(.*?)\<\/tr/gxs ); # loop throug the lines of the table
+            ( $table =~ /\<tr.*?\>(.*?)\<\/tr/gxs ); # loop through the lines of the table
 
         my $sched =
             join(" ",(@st,$whatDays,$trainType));
