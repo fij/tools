@@ -1,4 +1,4 @@
-  car
+car
 
 When we arrived in San Francisco in 2011, I needed to buy quickly a car from craigslist. 
 Cars that we liked were usually gone within a few hours. I was working, so I couldn't click
