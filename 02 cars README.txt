@@ -11,4 +11,4 @@ This is an example note that I received from the script:
 The Perl script writes email_body.txt and reads/writes log.txt.
 
 After starting the script, I contacted 4 or 5 people who were selling their cars, 
-and finally I bought a Toyota Corolla 1996. We loved it. It ran 14k miles with us.
+and finally I bought a Toyota Corolla. We loved it. It ran 14k miles with us.
